@@ -1,6 +1,6 @@
 img.tptn_thumb {
-	width:65px !important;
-	height:65px !important;
+	width:110px !important;
+	height:100px !important;
 	display:block;
 	float:left;
 	clear:left;
@@ -33,7 +33,7 @@ img.tptn_thumb {
 
 img.tptn_thumb:after {
 	content: ' ';
-	width: 100%;
+	width: 110%;
 	height: 100%;
 	position: absolute;
 	top: -1px;
